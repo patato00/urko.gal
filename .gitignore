@@ -1,0 +1,5 @@
+*.html
+!dist/assets
+!dist/*.php
+!dist/*.css
+!dist/.htaccess
