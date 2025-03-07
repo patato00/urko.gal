@@ -547,23 +547,6 @@ Additional Classes:
             <ul class="nk-events-list">
                 <li>
                     <a href="#" class="nk-event-date">
-                        17 Maio
-                        <span>2025</span>
-                    </a>
-                    <a href="#" class="nk-event-name">
-                        <strong>Por confirmar</strong>
-                        <span>Por confirmar</span>
-                    </a>
-                    <a href="#" class="nk-event-price">
-                        Por confirmar
-                        <span></span>
-                    </a>
-                    <div class="nk-event-button nk-event-button-sold">
-                        Por confirmar
-                    </div>
-                </li>
-                <li>
-                    <a href="#" class="nk-event-date">
                         5 Abril
                         <span>2025</span>
                     </a>
@@ -822,6 +805,15 @@ Additional Classes:
             <div class="nk-isotope nk-isotope-gap nk-isotope-3-cols nk-popup-gallery">
                 <div class="nk-isotope-item">
                     <div class="nk-image-box-1 ">
+                        <a href="assets/images/galeria/juanki_man_urko_capitol_mario_cesar.webp"
+                           data-size="602x900" class="nk-gallery-item"><img
+                                    src="assets/images/galeria/juanki_man_urko_capitol_mario_cesar.webp"
+                                    alt="Mario César por JuankiMan"></a>
+                    </div>
+                </div>
+
+                <div class="nk-isotope-item">
+                    <div class="nk-image-box-1 ">
                         <a href="assets/images/galeria/illado%20sala.jpg"
                            data-size="1412x1059" class="nk-gallery-item"><img
                                     src="assets/images/galeria/illado%20sala.jpg"
@@ -829,6 +821,14 @@ Additional Classes:
                     </div>
                 </div>
 
+                <div class="nk-isotope-item">
+                    <div class="nk-image-box-1 ">
+                        <a href="assets/images/galeria/juanki_man_urko_capitol_rafa_mario_cesar.webp"
+                           data-size="900x602" class="nk-gallery-item"><img
+                                    src="assets/images/galeria/juanki_man_urko_capitol_rafa_mario_cesar.webp"
+                                    alt="Rafa e Mario César por JuankiMan"></a>
+                    </div>
+                </div>
 
                 <div class="nk-isotope-item">
                     <div class="nk-image-box-1 ">
@@ -836,6 +836,16 @@ Additional Classes:
                                     src="assets/images/galeria/azul.jpg" alt=""></a>
                     </div>
                 </div>
+
+                <div class="nk-isotope-item">
+                    <div class="nk-image-box-1 ">
+                        <a href="assets/images/galeria/juanki_man_urko_capitol_pat.webp"
+                           data-size="602x900" class="nk-gallery-item"><img
+                                    src="assets/images/galeria/juanki_man_urko_capitol_pat.webp"
+                                    alt="Pat por JuankiMan"></a>
+                    </div>
+                </div>
+
                 <div class="nk-isotope-item">
                     <div class="nk-image-box-1 ">
                         <a href="assets/images/galeria/Urko%2025%20anos%20ruxindo%20Sala%20rebullon%2032.jpg"

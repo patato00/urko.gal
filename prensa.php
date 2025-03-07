@@ -379,6 +379,46 @@ Additional Classes:
                     <div class="row vertical-gap">
                         <div class="col-lg-5">
 
+                            <a href="https://rockentreamigos.com/2025/03/02/cronica-su-ta-gar-aphonnic-urko-22-02-2025-sala-capitol-santiago-de-compostela/"><img
+                                        src="assets/images/prensa/cronica%20capitol.jpg" alt=""
+                                        class="nk-img-stretch"></a>
+
+                        </div>
+                        <div class="col-lg-7">
+                            <div class="nk-post-meta nk-post-meta-top pb-0">
+                                <div class="nk-post-date nk-post-meta-right">
+                                    Marzo 02, 2025 <span class="nk-post-by">por <a
+                                                href="#">Metal REA | JuankiCacoMan</a></span>
+                                </div>
+                            </div>
+                            <div class="nk-post-category">
+                                En <a href="#">web</a>
+                            </div>
+                            <h2 class="nk-post-title h3"><a
+                                        href="https://rockentreamigos.com/2025/03/02/cronica-su-ta-gar-aphonnic-urko-22-02-2025-sala-capitol-santiago-de-compostela/">
+                                   IX aniversario  <span class="text-main-1">Inferno Rock</span></a></h2>
+
+                            <div class="nk-post-text">
+                                <p>Crónica e fotos do concerto en Capitol xunto con SuTaGar e APHONNIC.</p>
+                            </div>
+
+                            <div class="nk-post-continue link-effect-4 text-left">
+                                <a href="https://rockentreamigos.com/2025/03/02/cronica-su-ta-gar-aphonnic-urko-22-02-2025-sala-capitol-santiago-de-compostela/">Ver
+                                    mais <span
+                                            class="ion-ios-arrow-round-forward"></span></a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- END: Post -->
+
+                <!-- START: Post -->
+                <div class="nk-blog-post">
+
+                    <div class="row vertical-gap">
+                        <div class="col-lg-5">
+
                             <a href="https://rockentreamigos.com/2025/02/10/previa-su-ta-gar-aphonnic-urko-ix-aniversario-inferno-rock-bar-22-02-2025-sala-malatesta-santiago-de-compostela/"><img
                                         src="assets/images/prensa/inferno%20ix%20aniversario%20urko.jpg" alt=""
                                         class="nk-img-stretch"></a>
